@@ -4,7 +4,7 @@ T-Rex is a python script that is capable of extracting data about domains and IP
 
 ## Usage
 
-![Usage][usage2]
+![Usage][usage]
 
 
 [usage]: https://raw.githubusercontent.com/mnmnc/tt/master/trex-usage.png
